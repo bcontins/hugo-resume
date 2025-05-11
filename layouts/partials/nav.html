@@ -23,6 +23,11 @@
             <a class="nav-link" href="/contact">{{ i18n "contact" }}</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showDownload}}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ "files/cv-continsouzas-en.pdf" | relURL }}">{{ i18n "download" }}</a>
+          </li>
+      {{ end }}
     </ul>
   </div>
 </nav>
