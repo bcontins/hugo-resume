@@ -1,20 +1,38 @@
 [
     {
-        "role":"Boss man",
+        "role":"Functional Avionics Technical Lead - OneWeb/Arrow Satellites",
         "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "summary":"Functional Avionics Technical Lead for the On-Board Software used on OneWeb satellites and the Arrow satellite bus",
+        "range":"January 2017 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Software Development Lead - Spacegate R3",
+        "company":"Thales Alenia Space (for Viveris)",
+        "summary":"Technical lead for the development of modulator/demodulator equipment for the new release of a satellite access network solution based on DVB standards developed by Thales Alenia Space.\n- Manage a team of 4 developers (scheduling, code review and merge, documentation review), implement new functionalities and administrate development toolchain (git, Jenkins)\n- Handle customer / product owner relationships (sprint planning and review, deliveries) and provide technical expertise for integration teams",
+        "range":"March 2015 - October 2016"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"System Integration and Verification - On-board Information Systems A350",
+        "company":"Airbus (as Independent Contractor).",
+        "summary":"System Integration and Verification on the FSA-NG Avionics Server Function, a certified (DO-178B DAL C) A350XWB On-board Information System hosting flight-ops and maintenance applications:\n- Integrated hardware modules (developed by Airbus and Rockwell Collins) and software subsets (OS, platform management, file system, dataloading, BITE) in the complete system\n- Defined and executed formal verification procedures for the complete system, developed specific test tools and provided support for certification reviews relying on test results\n- Provided technical support for hardware and production teams working on the system development and for end users (Ground and Flight Test teams, Final Assembly Line)",
+        "range":"February 2012 - December 2014"
+    },
+    {
+        "role":"Systems Engineering / Software Integration - On-board Information Systems A350",
+        "company":"Rockwell Collins (for Amesys)",
+        "summary":"Systems Engineering / Software Integration on the FSA-NG Open-world Server Function, an A350XWB On-board Information System hosting flight-ops and maintenance applications:\n- Integrated software modules delivered by Rockwell Collins software teams located in France, USA and India\n- Provided technical proposals to improve system design and test means based on feedback from integration of software modules with target hardware\n- Tracked project issues reported by the customer (ClearQuest) and provided technical clarification to software team to help resolve anomalies",
+        "range":"November 2009 - December 2011"
+    },
+    {
+        "role":"Research and Development Engineer - On-board Information Systems",
+        "company":"Airbus (for SII)",
+        "summary":"Research & Development activities led by the Design Office and aiming at improving management of databases used by avionics systems (navigation, surveillance, flight-ops, maintenance):\n- Coordinated a team of 5 engineers involved in various research projects and managed relationships with customer\n- Assisted GEODESIE project leader for task management, relationship with project partners (Thales, ONERA) and risk management\n- Brought technical expertise, wrote specifications and presented research findings to Airbus R&D management",
+        "range":"August 2008 - November 2009"
+    },
+    {
+        "role":"Software Development - Early Projects",
+        "company":"Viveris and Alyotech",
+        "summary":"- FlySmart ANSU (Rockwell Collins – 10 months): Software development of an upgrade for the On-board Information System installed on Airbus A340 and hosting applications used by flight crews and maintenance crews (C++/Corba, Java/Swing, ANT, CruiseControl)\n- Real-Time Hydrologic Database (Thales – 8 months): Design and implementation of a system used 24/7 to collect, process, store and distribute data used to forecast floods in France (Python, PostgreSQL, Linux/RHEL, PHP, SOAP, WSDL, Apache)\n- Test Resources Management (EADS Test & Services - 12 months): Development of new functionalities and bug fixing on the Test Resources Management product, an application facilitating the management of obsolete testing equipment (Python, C, wxWidgets)\n- AFDX Toolkit (internal R&D project - 5 months): Feasibility study and implementation of a tool for analysis / generation of AFDX communications using standard Ethernet cards (C++).\n- Computer-Aided Ground Tests (EADS Test & Services - 6 months): Software Maintenance and Upgrade for the ESAO project used to manage test procedures and results for the A320/A340 Final Assembly Lines (C, HP-UX, Oracle).",
+        "range":"November 2004 - July 2008"
     }
 ]

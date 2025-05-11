@@ -1,15 +1,14 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"[National Institute of Applied Sciences - Toulouse](https://www.insa-toulouse.fr/en/)",
+        "degree":"Software Engineering Degree",
+        "major":"Software Engineering",
+        "range":"1999 - 2004"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
+        "school":"[System Doctoral School - Toulouse](https://www.univ-tlse3.fr/formation-doctorale/systemes)",
+        "degree":"Master's Degree in Computer Science",
         "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "range":"2003 - 2004"
     }
 ]

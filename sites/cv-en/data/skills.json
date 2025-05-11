@@ -1,32 +1,55 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-      "grouping":"Data Management",
+      "grouping":"Project Tools",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
+        "Jira",
+        {"name":"Confluence","icon":"Atlassian"},
+        {"name":"Mantis","link":"https://mantisbt.org/"},
+        {"name":"DOORS","link":"https://www.ibm.com/products/requirements-management"}
       ]
   },
   {
-    "grouping":"Containers & Cloud",
+    "grouping":"Operating Systems",
+    "skills":[
+      {"name":"Linux (Debian, OpenSUSE)","icon":"linux"},
+      {"name":"PikeOS (RTOS PPC)","link":"https://www.sysgo.com/pikeos"},
+      {"name":"XtratuM (RTOS ARM)","link":"https://www.fentiss.com/xtratum/"}
+    ]
+  },
+  {
+    "grouping":"Languages",
+    "skills":[
+      {"name":"C (Embedded/MISRA)","icon":"code"},
+      "Python",
+      "Java",
+      {"name":"Shell","icon":"terminal"},
+      {"name":"SQL","icon":"database"}
+    ]
+  },
+  {
+    "grouping":"Development Tools",
+    "skills":[
+      "git",
+      {"name":"Subversion","link":"https://subversion.apache.org/"},
+      {"name":"Jenkins","icon":"jenkins","link":"https://www.jenkins.io/"},
+      "Gitlab",
+      {"name":"CodeSonar","icon":"code","link":"https://www.grammatech.com/learn/tag/codesonar/"},
+      "GCC",
+      "CMake",
+      {"name":"Visual Studio","icon":"visualstudio"},
+      {"name":"Vim","icon":"vim"}
+    ]
+  },
+  {
+      "grouping":"Other Tools",
       "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+        "Grafana",
+        {"name":"PostgreSQL","icon":"postgresql"},
+        {"name":"InfluxDB","icon":"database"},
+        "VMware",
+        {"name":"QEMU","link":"https://www.qemu.org/"},
+        "Wireshark",
+        {"name":"Terma CCS","link":"https://www.terma.com/products/space/central-checkout-systems/"}
+        ]
   }
 ]
