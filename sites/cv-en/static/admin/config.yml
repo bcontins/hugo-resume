@@ -8,11 +8,9 @@
 #  
 #
 
-
-
 backend:
   name: github
-  repo: eddiewebb/hugo-resume
+  repo: bcontins/hugo-resume
   branch: cms
 
 
