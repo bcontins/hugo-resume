@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Resume (EN)"
 date: 2025-05-04
 sitemap:
   priority : 1.0
@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+ Software and System Integration Engineer with experience in development for Satellite Functional Avionics / On-Board Software and in development for Commercial Aircraft On-Board Information Systems.
