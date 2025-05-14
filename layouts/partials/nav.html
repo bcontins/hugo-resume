@@ -23,9 +23,14 @@
             <a class="nav-link" href="/contact">{{ i18n "contact" }}</a>
           </li>
       {{ end }}
-      {{ if .Site.Params.showDownload}}
+      {{ range .Site.Params.downloads}}
           <li class="nav-item">
-            <a class="nav-link" href="{{ "files/cv-continsouzas-en.pdf" | relURL }}">{{ i18n "download" }}</a>
+            <a class="nav-link" href="{{ .file | printf "files/%s" | relURL }}">[ {{ i18n "download" }} {{ .name }} ]</a>
+          </li>
+      {{ end }}
+      {{ range .Site.Params.translations}}
+          <li class="nav-item">
+            <a class="nav-link" href="{{ .link }}">[ {{ .name }} ]</a>
           </li>
       {{ end }}
     </ul>

@@ -21,7 +21,6 @@ showContact = false
 showBoards  = false
 showCertifications = false
 showSocializations = true
-showDownload = true
 sections = ["skills","experience","education"]
 
 [[params.handles]]
@@ -31,6 +30,18 @@ sections = ["skills","experience","education"]
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/bcontins/"
+
+[[params.downloads]]
+    name = "PDF"
+    file = "cv-continsouzas-en.pdf"
+
+[[params.downloads]]
+    name = "DOC"
+    file = "cv-continsouzas-en.docx"
+
+[[params.translations_xx]]
+    name = "Français"
+    link = "https://continsouzas.com/cv-fr/"
 
 [outputs]
 home = ["HTML", "JSON"]
