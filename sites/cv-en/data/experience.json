@@ -1,8 +1,8 @@
 [
     {
         "role":"Functional Avionics Technical Lead - OneWeb/Arrow Satellites",
-        "company":"Current Company LTD",
-        "summary":"Functional Avionics Technical Lead for the On-Board Software used on OneWeb satellites and the Arrow satellite bus",
+        "company":"Airbus Constellations Satellites",
+        "summary":"Technical Lead for the development of the On-Board Software used on the avionics platform for OneWeb satellites and Arrow satellite bus with over 650 units produced and in operation:\n- Oversee development of Flight Software evolutions and corrections: identify improvements based on in-orbit feedback, collect technical inputs from architects and technical managers, conduct software Change Control Board meetings\n- Ensure integration of Flight Software on On-Board Computer and prepare test configurations for Functional Validation activities on simulator and on test hardware (Flatsat)\n- Develop tooling to enable software loading on satellite On-Board Computer during production and in-orbit and tooling for automated satellite data generation during production\n- Deliver integrated Flight Software configurations, associated documentation and satellite database exports for use during satellite production and to customers for in-orbit deployment\n- Provide technical support internally for serial satellite production and to customers for in-orbit operation: trainings, investigations, non-conformance review boards...",
         "range":"January 2017 - Present"
     },
     {
@@ -20,7 +20,7 @@
     {
         "role":"Systems Engineering / Software Integration - On-board Information Systems A350",
         "company":"Rockwell Collins (for Amesys)",
-        "summary":"Systems Engineering / Software Integration on the FSA-NG Open-world Server Function, an A350XWB On-board Information System hosting flight-ops and maintenance applications:\n- Integrated software modules delivered by Rockwell Collins software teams located in France, USA and India\n- Provided technical proposals to improve system design and test means based on feedback from integration of software modules with target hardware\n- Tracked project issues reported by the customer (ClearQuest) and provided technical clarification to software team to help resolve anomalies",
+        "summary":"Systems Engineering / Software Integration on the FSA-NG Open-world Server Function, an A350XWB On-board Information System hosting flight-ops and maintenance applications:\n- Integrated software modules delivered by Rockwell Collins software teams located in France, USA and India\n- Provided technical proposals to improve system design and test means based on feedback from integration of software modules with target hardware\n- Tracked project issues reported by the customer (ClearQuest) and provided technical clarification to software team to help solve anomalies",
         "range":"November 2009 - December 2011"
     },
     {
